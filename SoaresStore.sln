@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SoaresStore.Domain", "Soare
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SoaresStore.Application", "SoaresStore.Application\SoaresStore.Application.csproj", "{77129AE7-937D-4AE0-BA4C-9411280B44AF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SoaresStore.Infrastructure", "SoaresStore.Infrastructure\SoaresStore.Infrastructure.csproj", "{2ABB90F7-B344-4E5B-AA20-DB7D918DDE8E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -41,6 +43,18 @@ Global
 		{77129AE7-937D-4AE0-BA4C-9411280B44AF}.Release|x64.Build.0 = Release|Any CPU
 		{77129AE7-937D-4AE0-BA4C-9411280B44AF}.Release|x86.ActiveCfg = Release|Any CPU
 		{77129AE7-937D-4AE0-BA4C-9411280B44AF}.Release|x86.Build.0 = Release|Any CPU
+		{2ABB90F7-B344-4E5B-AA20-DB7D918DDE8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2ABB90F7-B344-4E5B-AA20-DB7D918DDE8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2ABB90F7-B344-4E5B-AA20-DB7D918DDE8E}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{2ABB90F7-B344-4E5B-AA20-DB7D918DDE8E}.Debug|x64.Build.0 = Debug|Any CPU
+		{2ABB90F7-B344-4E5B-AA20-DB7D918DDE8E}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{2ABB90F7-B344-4E5B-AA20-DB7D918DDE8E}.Debug|x86.Build.0 = Debug|Any CPU
+		{2ABB90F7-B344-4E5B-AA20-DB7D918DDE8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2ABB90F7-B344-4E5B-AA20-DB7D918DDE8E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2ABB90F7-B344-4E5B-AA20-DB7D918DDE8E}.Release|x64.ActiveCfg = Release|Any CPU
+		{2ABB90F7-B344-4E5B-AA20-DB7D918DDE8E}.Release|x64.Build.0 = Release|Any CPU
+		{2ABB90F7-B344-4E5B-AA20-DB7D918DDE8E}.Release|x86.ActiveCfg = Release|Any CPU
+		{2ABB90F7-B344-4E5B-AA20-DB7D918DDE8E}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

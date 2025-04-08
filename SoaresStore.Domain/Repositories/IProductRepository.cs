@@ -4,7 +4,7 @@ namespace SoaresStore.Domain.Repositories
 {
     public interface IProductRepository : IRepository<Product>
     {
-        Task<Product> GetByIdAsync(Guid id, CancellationToken cancellationToken);
+        Task<Product?> GetByIdAsync(Guid id, CancellationToken cancellationToken);
 
         Task<List<Product>> GetAllAsync(CancellationToken cancellationToken);
 

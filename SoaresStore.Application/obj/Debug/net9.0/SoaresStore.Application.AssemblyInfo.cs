@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SoaresStore.Application")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8c34121e5f4ed4b2de77c7bc39cc851deeac3ff9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f4ffe0107f33b43be5dcfddadd0bff2a94c0fc32")]
 [assembly: System.Reflection.AssemblyProductAttribute("SoaresStore.Application")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SoaresStore.Application")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
