@@ -1,0 +1,16 @@
+F:\Leandro\lab_leandro\balta\Repository Pattern\SoaresStore\SoaresStore.Application\bin\Debug\net9.0\SoaresStore.Application.deps.json
+F:\Leandro\lab_leandro\balta\Repository Pattern\SoaresStore\SoaresStore.Application\bin\Debug\net9.0\SoaresStore.Application.dll
+F:\Leandro\lab_leandro\balta\Repository Pattern\SoaresStore\SoaresStore.Application\bin\Debug\net9.0\SoaresStore.Application.pdb
+F:\Leandro\lab_leandro\balta\Repository Pattern\SoaresStore\SoaresStore.Application\bin\Debug\net9.0\SoaresStore.Domain.dll
+F:\Leandro\lab_leandro\balta\Repository Pattern\SoaresStore\SoaresStore.Application\bin\Debug\net9.0\SoaresStore.Domain.pdb
+F:\Leandro\lab_leandro\balta\Repository Pattern\SoaresStore\SoaresStore.Application\obj\Debug\net9.0\SoaresStore.Application.csproj.AssemblyReference.cache
+F:\Leandro\lab_leandro\balta\Repository Pattern\SoaresStore\SoaresStore.Application\obj\Debug\net9.0\SoaresStore.Application.GeneratedMSBuildEditorConfig.editorconfig
+F:\Leandro\lab_leandro\balta\Repository Pattern\SoaresStore\SoaresStore.Application\obj\Debug\net9.0\SoaresStore.Application.AssemblyInfoInputs.cache
+F:\Leandro\lab_leandro\balta\Repository Pattern\SoaresStore\SoaresStore.Application\obj\Debug\net9.0\SoaresStore.Application.AssemblyInfo.cs
+F:\Leandro\lab_leandro\balta\Repository Pattern\SoaresStore\SoaresStore.Application\obj\Debug\net9.0\SoaresStore.Application.csproj.CoreCompileInputs.cache
+F:\Leandro\lab_leandro\balta\Repository Pattern\SoaresStore\SoaresStore.Application\obj\Debug\net9.0\SoaresStore.Application.sourcelink.json
+F:\Leandro\lab_leandro\balta\Repository Pattern\SoaresStore\SoaresStore.Application\obj\Debug\net9.0\SoaresSt.10841F62.Up2Date
+F:\Leandro\lab_leandro\balta\Repository Pattern\SoaresStore\SoaresStore.Application\obj\Debug\net9.0\SoaresStore.Application.dll
+F:\Leandro\lab_leandro\balta\Repository Pattern\SoaresStore\SoaresStore.Application\obj\Debug\net9.0\refint\SoaresStore.Application.dll
+F:\Leandro\lab_leandro\balta\Repository Pattern\SoaresStore\SoaresStore.Application\obj\Debug\net9.0\SoaresStore.Application.pdb
+F:\Leandro\lab_leandro\balta\Repository Pattern\SoaresStore\SoaresStore.Application\obj\Debug\net9.0\ref\SoaresStore.Application.dll

@@ -1,7 +1,24 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "F:\\Leandro\\lab_leandro\\balta\\Repository Pattern\\SoaresStore\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{06446233-3CEF-4CB6-976A-491FAB44E7A2}|SoaresStore.Domain\\SoaresStore.Domain.csproj|f:\\leandro\\lab_leandro\\balta\\repository pattern\\soaresstore\\soaresstore.domain\\abstractions\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06446233-3CEF-4CB6-976A-491FAB44E7A2}|SoaresStore.Domain\\SoaresStore.Domain.csproj|solutionrelative:soaresstore.domain\\abstractions\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77129AE7-937D-4AE0-BA4C-9411280B44AF}|SoaresStore.Application\\SoaresStore.Application.csproj|f:\\leandro\\lab_leandro\\balta\\repository pattern\\soaresstore\\soaresstore.application\\usecases\\products\\getbyid\\handler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77129AE7-937D-4AE0-BA4C-9411280B44AF}|SoaresStore.Application\\SoaresStore.Application.csproj|solutionrelative:soaresstore.application\\usecases\\products\\getbyid\\handler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77129AE7-937D-4AE0-BA4C-9411280B44AF}|SoaresStore.Application\\SoaresStore.Application.csproj|f:\\leandro\\lab_leandro\\balta\\repository pattern\\soaresstore\\soaresstore.application\\usecases\\products\\getbyid\\command.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77129AE7-937D-4AE0-BA4C-9411280B44AF}|SoaresStore.Application\\SoaresStore.Application.csproj|solutionrelative:soaresstore.application\\usecases\\products\\getbyid\\command.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06446233-3CEF-4CB6-976A-491FAB44E7A2}|SoaresStore.Domain\\SoaresStore.Domain.csproj|f:\\leandro\\lab_leandro\\balta\\repository pattern\\soaresstore\\soaresstore.domain\\abstractions\\error.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06446233-3CEF-4CB6-976A-491FAB44E7A2}|SoaresStore.Domain\\SoaresStore.Domain.csproj|solutionrelative:soaresstore.domain\\abstractions\\error.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 35,
           "Children": [
             {
               "$type": "Bookmark",
@@ -142,6 +159,58 @@
             {
               "$type": "Bookmark",
               "Name": "ST:11:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Error.cs",
+              "DocumentMoniker": "F:\\Leandro\\lab_leandro\\balta\\Repository Pattern\\SoaresStore\\SoaresStore.Domain\\Abstractions\\Error.cs",
+              "RelativeDocumentMoniker": "SoaresStore.Domain\\Abstractions\\Error.cs",
+              "ToolTip": "F:\\Leandro\\lab_leandro\\balta\\Repository Pattern\\SoaresStore\\SoaresStore.Domain\\Abstractions\\Error.cs",
+              "RelativeToolTip": "SoaresStore.Domain\\Abstractions\\Error.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T13:46:37.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Handler.cs",
+              "DocumentMoniker": "F:\\Leandro\\lab_leandro\\balta\\Repository Pattern\\SoaresStore\\SoaresStore.Application\\UseCases\\Products\\GetById\\Handler.cs",
+              "RelativeDocumentMoniker": "SoaresStore.Application\\UseCases\\Products\\GetById\\Handler.cs",
+              "ToolTip": "F:\\Leandro\\lab_leandro\\balta\\Repository Pattern\\SoaresStore\\SoaresStore.Application\\UseCases\\Products\\GetById\\Handler.cs",
+              "RelativeToolTip": "SoaresStore.Application\\UseCases\\Products\\GetById\\Handler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T13:32:08.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Result.cs",
+              "DocumentMoniker": "F:\\Leandro\\lab_leandro\\balta\\Repository Pattern\\SoaresStore\\SoaresStore.Domain\\Abstractions\\Result.cs",
+              "RelativeDocumentMoniker": "SoaresStore.Domain\\Abstractions\\Result.cs",
+              "ToolTip": "F:\\Leandro\\lab_leandro\\balta\\Repository Pattern\\SoaresStore\\SoaresStore.Domain\\Abstractions\\Result.cs",
+              "RelativeToolTip": "SoaresStore.Domain\\Abstractions\\Result.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T13:45:18.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Command.cs",
+              "DocumentMoniker": "F:\\Leandro\\lab_leandro\\balta\\Repository Pattern\\SoaresStore\\SoaresStore.Application\\UseCases\\Products\\GetById\\Command.cs",
+              "RelativeDocumentMoniker": "SoaresStore.Application\\UseCases\\Products\\GetById\\Command.cs",
+              "ToolTip": "F:\\Leandro\\lab_leandro\\balta\\Repository Pattern\\SoaresStore\\SoaresStore.Application\\UseCases\\Products\\GetById\\Command.cs",
+              "RelativeToolTip": "SoaresStore.Application\\UseCases\\Products\\GetById\\Command.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAUAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T13:31:23.27Z",
+              "EditorCaption": ""
             }
           ]
         }

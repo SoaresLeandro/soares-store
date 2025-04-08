@@ -1,4 +1,4 @@
-﻿namespace SoaresStore.Domain.Entities.Abstractions
+﻿namespace SoaresStore.Domain.Abstractions
 {
     public abstract class Entity
     {

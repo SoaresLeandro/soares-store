@@ -9,3 +9,4 @@ F:\Leandro\lab_leandro\balta\Repository Pattern\SoaresStore\SoaresStore.Domain\o
 F:\Leandro\lab_leandro\balta\Repository Pattern\SoaresStore\SoaresStore.Domain\obj\Debug\net9.0\refint\SoaresStore.Domain.dll
 F:\Leandro\lab_leandro\balta\Repository Pattern\SoaresStore\SoaresStore.Domain\obj\Debug\net9.0\SoaresStore.Domain.pdb
 F:\Leandro\lab_leandro\balta\Repository Pattern\SoaresStore\SoaresStore.Domain\obj\Debug\net9.0\ref\SoaresStore.Domain.dll
+F:\Leandro\lab_leandro\balta\Repository Pattern\SoaresStore\SoaresStore.Domain\obj\Debug\net9.0\SoaresStore.Domain.sourcelink.json

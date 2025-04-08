@@ -1,4 +1,4 @@
-﻿using SoaresStore.Domain.Entities.Abstractions;
+﻿using SoaresStore.Domain.Abstractions;
 
 namespace SoaresStore.Domain.Entities
 {
