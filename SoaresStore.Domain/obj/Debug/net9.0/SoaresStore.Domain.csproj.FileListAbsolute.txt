@@ -1,0 +1,11 @@
+F:\Leandro\lab_leandro\balta\Repository Pattern\SoaresStore\SoaresStore.Domain\bin\Debug\net9.0\SoaresStore.Domain.deps.json
+F:\Leandro\lab_leandro\balta\Repository Pattern\SoaresStore\SoaresStore.Domain\bin\Debug\net9.0\SoaresStore.Domain.dll
+F:\Leandro\lab_leandro\balta\Repository Pattern\SoaresStore\SoaresStore.Domain\bin\Debug\net9.0\SoaresStore.Domain.pdb
+F:\Leandro\lab_leandro\balta\Repository Pattern\SoaresStore\SoaresStore.Domain\obj\Debug\net9.0\SoaresStore.Domain.GeneratedMSBuildEditorConfig.editorconfig
+F:\Leandro\lab_leandro\balta\Repository Pattern\SoaresStore\SoaresStore.Domain\obj\Debug\net9.0\SoaresStore.Domain.AssemblyInfoInputs.cache
+F:\Leandro\lab_leandro\balta\Repository Pattern\SoaresStore\SoaresStore.Domain\obj\Debug\net9.0\SoaresStore.Domain.AssemblyInfo.cs
+F:\Leandro\lab_leandro\balta\Repository Pattern\SoaresStore\SoaresStore.Domain\obj\Debug\net9.0\SoaresStore.Domain.csproj.CoreCompileInputs.cache
+F:\Leandro\lab_leandro\balta\Repository Pattern\SoaresStore\SoaresStore.Domain\obj\Debug\net9.0\SoaresStore.Domain.dll
+F:\Leandro\lab_leandro\balta\Repository Pattern\SoaresStore\SoaresStore.Domain\obj\Debug\net9.0\refint\SoaresStore.Domain.dll
+F:\Leandro\lab_leandro\balta\Repository Pattern\SoaresStore\SoaresStore.Domain\obj\Debug\net9.0\SoaresStore.Domain.pdb
+F:\Leandro\lab_leandro\balta\Repository Pattern\SoaresStore\SoaresStore.Domain\obj\Debug\net9.0\ref\SoaresStore.Domain.dll
