@@ -1,0 +1,335 @@
+{
+  "format": 1,
+  "restore": {
+    "F:\\Leandro\\lab_leandro\\balta\\Repository Pattern\\SoaresStore\\SoaresStore.Api\\SoaresStore.Api.csproj": {}
+  },
+  "projects": {
+    "F:\\Leandro\\lab_leandro\\balta\\Repository Pattern\\SoaresStore\\SoaresStore.Api\\SoaresStore.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\Leandro\\lab_leandro\\balta\\Repository Pattern\\SoaresStore\\SoaresStore.Api\\SoaresStore.Api.csproj",
+        "projectName": "SoaresStore.Api",
+        "projectPath": "F:\\Leandro\\lab_leandro\\balta\\Repository Pattern\\SoaresStore\\SoaresStore.Api\\SoaresStore.Api.csproj",
+        "packagesPath": "C:\\Users\\lsilva.MILTEC\\.nuget\\packages\\",
+        "outputPath": "F:\\Leandro\\lab_leandro\\balta\\Repository Pattern\\SoaresStore\\SoaresStore.Api\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\lsilva.MILTEC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "F:\\Leandro\\lab_leandro\\balta\\Repository Pattern\\SoaresStore\\SoaresStore.Application\\SoaresStore.Application.csproj": {
+                "projectPath": "F:\\Leandro\\lab_leandro\\balta\\Repository Pattern\\SoaresStore\\SoaresStore.Application\\SoaresStore.Application.csproj"
+              },
+              "F:\\Leandro\\lab_leandro\\balta\\Repository Pattern\\SoaresStore\\SoaresStore.Domain\\SoaresStore.Domain.csproj": {
+                "projectPath": "F:\\Leandro\\lab_leandro\\balta\\Repository Pattern\\SoaresStore\\SoaresStore.Domain\\SoaresStore.Domain.csproj"
+              },
+              "F:\\Leandro\\lab_leandro\\balta\\Repository Pattern\\SoaresStore\\SoaresStore.Infrastructure\\SoaresStore.Infrastructure.csproj": {
+                "projectPath": "F:\\Leandro\\lab_leandro\\balta\\Repository Pattern\\SoaresStore\\SoaresStore.Infrastructure\\SoaresStore.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "MediatR": {
+              "target": "Package",
+              "version": "[12.5.0, )"
+            },
+            "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "[9.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[9.0.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "F:\\Leandro\\lab_leandro\\balta\\Repository Pattern\\SoaresStore\\SoaresStore.Application\\SoaresStore.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\Leandro\\lab_leandro\\balta\\Repository Pattern\\SoaresStore\\SoaresStore.Application\\SoaresStore.Application.csproj",
+        "projectName": "SoaresStore.Application",
+        "projectPath": "F:\\Leandro\\lab_leandro\\balta\\Repository Pattern\\SoaresStore\\SoaresStore.Application\\SoaresStore.Application.csproj",
+        "packagesPath": "C:\\Users\\lsilva.MILTEC\\.nuget\\packages\\",
+        "outputPath": "F:\\Leandro\\lab_leandro\\balta\\Repository Pattern\\SoaresStore\\SoaresStore.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\lsilva.MILTEC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "F:\\Leandro\\lab_leandro\\balta\\Repository Pattern\\SoaresStore\\SoaresStore.Domain\\SoaresStore.Domain.csproj": {
+                "projectPath": "F:\\Leandro\\lab_leandro\\balta\\Repository Pattern\\SoaresStore\\SoaresStore.Domain\\SoaresStore.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "MediatR": {
+              "target": "Package",
+              "version": "[12.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "F:\\Leandro\\lab_leandro\\balta\\Repository Pattern\\SoaresStore\\SoaresStore.Domain\\SoaresStore.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\Leandro\\lab_leandro\\balta\\Repository Pattern\\SoaresStore\\SoaresStore.Domain\\SoaresStore.Domain.csproj",
+        "projectName": "SoaresStore.Domain",
+        "projectPath": "F:\\Leandro\\lab_leandro\\balta\\Repository Pattern\\SoaresStore\\SoaresStore.Domain\\SoaresStore.Domain.csproj",
+        "packagesPath": "C:\\Users\\lsilva.MILTEC\\.nuget\\packages\\",
+        "outputPath": "F:\\Leandro\\lab_leandro\\balta\\Repository Pattern\\SoaresStore\\SoaresStore.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\lsilva.MILTEC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "F:\\Leandro\\lab_leandro\\balta\\Repository Pattern\\SoaresStore\\SoaresStore.Infrastructure\\SoaresStore.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\Leandro\\lab_leandro\\balta\\Repository Pattern\\SoaresStore\\SoaresStore.Infrastructure\\SoaresStore.Infrastructure.csproj",
+        "projectName": "SoaresStore.Infrastructure",
+        "projectPath": "F:\\Leandro\\lab_leandro\\balta\\Repository Pattern\\SoaresStore\\SoaresStore.Infrastructure\\SoaresStore.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\lsilva.MILTEC\\.nuget\\packages\\",
+        "outputPath": "F:\\Leandro\\lab_leandro\\balta\\Repository Pattern\\SoaresStore\\SoaresStore.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\lsilva.MILTEC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "F:\\Leandro\\lab_leandro\\balta\\Repository Pattern\\SoaresStore\\SoaresStore.Domain\\SoaresStore.Domain.csproj": {
+                "projectPath": "F:\\Leandro\\lab_leandro\\balta\\Repository Pattern\\SoaresStore\\SoaresStore.Domain\\SoaresStore.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[9.0.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[9.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

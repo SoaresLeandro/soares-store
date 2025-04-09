@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SoaresStore.Application", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SoaresStore.Infrastructure", "SoaresStore.Infrastructure\SoaresStore.Infrastructure.csproj", "{2ABB90F7-B344-4E5B-AA20-DB7D918DDE8E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SoaresStore.Api", "SoaresStore.Api\SoaresStore.Api.csproj", "{E21C680C-1E34-4F5C-9FE8-5BAA32C89446}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -55,6 +57,18 @@ Global
 		{2ABB90F7-B344-4E5B-AA20-DB7D918DDE8E}.Release|x64.Build.0 = Release|Any CPU
 		{2ABB90F7-B344-4E5B-AA20-DB7D918DDE8E}.Release|x86.ActiveCfg = Release|Any CPU
 		{2ABB90F7-B344-4E5B-AA20-DB7D918DDE8E}.Release|x86.Build.0 = Release|Any CPU
+		{E21C680C-1E34-4F5C-9FE8-5BAA32C89446}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E21C680C-1E34-4F5C-9FE8-5BAA32C89446}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E21C680C-1E34-4F5C-9FE8-5BAA32C89446}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{E21C680C-1E34-4F5C-9FE8-5BAA32C89446}.Debug|x64.Build.0 = Debug|Any CPU
+		{E21C680C-1E34-4F5C-9FE8-5BAA32C89446}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{E21C680C-1E34-4F5C-9FE8-5BAA32C89446}.Debug|x86.Build.0 = Debug|Any CPU
+		{E21C680C-1E34-4F5C-9FE8-5BAA32C89446}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E21C680C-1E34-4F5C-9FE8-5BAA32C89446}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E21C680C-1E34-4F5C-9FE8-5BAA32C89446}.Release|x64.ActiveCfg = Release|Any CPU
+		{E21C680C-1E34-4F5C-9FE8-5BAA32C89446}.Release|x64.Build.0 = Release|Any CPU
+		{E21C680C-1E34-4F5C-9FE8-5BAA32C89446}.Release|x86.ActiveCfg = Release|Any CPU
+		{E21C680C-1E34-4F5C-9FE8-5BAA32C89446}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

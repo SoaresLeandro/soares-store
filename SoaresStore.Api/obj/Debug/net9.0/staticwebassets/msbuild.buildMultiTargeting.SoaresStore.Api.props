@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\SoaresStore.Api.props" />
+</Project>

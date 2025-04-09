@@ -3,44 +3,28 @@
   "WorkspaceRootPath": "F:\\Leandro\\lab_leandro\\balta\\Repository Pattern\\SoaresStore\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{77129AE7-937D-4AE0-BA4C-9411280B44AF}|SoaresStore.Application\\SoaresStore.Application.csproj|f:\\leandro\\lab_leandro\\balta\\repository pattern\\soaresstore\\soaresstore.application\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{77129AE7-937D-4AE0-BA4C-9411280B44AF}|SoaresStore.Application\\SoaresStore.Application.csproj|solutionrelative:soaresstore.application\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E21C680C-1E34-4F5C-9FE8-5BAA32C89446}|SoaresStore.Api\\SoaresStore.Api.csproj|f:\\leandro\\lab_leandro\\balta\\repository pattern\\soaresstore\\soaresstore.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E21C680C-1E34-4F5C-9FE8-5BAA32C89446}|SoaresStore.Api\\SoaresStore.Api.csproj|solutionrelative:soaresstore.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2ABB90F7-B344-4E5B-AA20-DB7D918DDE8E}|SoaresStore.Infrastructure\\SoaresStore.Infrastructure.csproj|f:\\leandro\\lab_leandro\\balta\\repository pattern\\soaresstore\\soaresstore.infrastructure\\data\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2ABB90F7-B344-4E5B-AA20-DB7D918DDE8E}|SoaresStore.Infrastructure\\SoaresStore.Infrastructure.csproj|solutionrelative:soaresstore.infrastructure\\data\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E21C680C-1E34-4F5C-9FE8-5BAA32C89446}|SoaresStore.Api\\SoaresStore.Api.csproj|f:\\leandro\\lab_leandro\\balta\\repository pattern\\soaresstore\\soaresstore.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E21C680C-1E34-4F5C-9FE8-5BAA32C89446}|SoaresStore.Api\\SoaresStore.Api.csproj|solutionrelative:soaresstore.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2ABB90F7-B344-4E5B-AA20-DB7D918DDE8E}|SoaresStore.Infrastructure\\SoaresStore.Infrastructure.csproj|f:\\leandro\\lab_leandro\\balta\\repository pattern\\soaresstore\\soaresstore.infrastructure\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2ABB90F7-B344-4E5B-AA20-DB7D918DDE8E}|SoaresStore.Infrastructure\\SoaresStore.Infrastructure.csproj|solutionrelative:soaresstore.infrastructure\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{06446233-3CEF-4CB6-976A-491FAB44E7A2}|SoaresStore.Domain\\SoaresStore.Domain.csproj|f:\\leandro\\lab_leandro\\balta\\repository pattern\\soaresstore\\soaresstore.domain\\repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{06446233-3CEF-4CB6-976A-491FAB44E7A2}|SoaresStore.Domain\\SoaresStore.Domain.csproj|solutionrelative:soaresstore.domain\\repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E21C680C-1E34-4F5C-9FE8-5BAA32C89446}|SoaresStore.Api\\SoaresStore.Api.csproj|f:\\leandro\\lab_leandro\\balta\\repository pattern\\soaresstore\\soaresstore.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E21C680C-1E34-4F5C-9FE8-5BAA32C89446}|SoaresStore.Api\\SoaresStore.Api.csproj|solutionrelative:soaresstore.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2ABB90F7-B344-4E5B-AA20-DB7D918DDE8E}|SoaresStore.Infrastructure\\SoaresStore.Infrastructure.csproj|f:\\leandro\\lab_leandro\\balta\\repository pattern\\soaresstore\\soaresstore.infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2ABB90F7-B344-4E5B-AA20-DB7D918DDE8E}|SoaresStore.Infrastructure\\SoaresStore.Infrastructure.csproj|solutionrelative:soaresstore.infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{2ABB90F7-B344-4E5B-AA20-DB7D918DDE8E}|SoaresStore.Infrastructure\\SoaresStore.Infrastructure.csproj|f:\\leandro\\lab_leandro\\balta\\repository pattern\\soaresstore\\soaresstore.infrastructure\\data\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2ABB90F7-B344-4E5B-AA20-DB7D918DDE8E}|SoaresStore.Infrastructure\\SoaresStore.Infrastructure.csproj|solutionrelative:soaresstore.infrastructure\\data\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{2ABB90F7-B344-4E5B-AA20-DB7D918DDE8E}|SoaresStore.Infrastructure\\SoaresStore.Infrastructure.csproj|f:\\leandro\\lab_leandro\\balta\\repository pattern\\soaresstore\\soaresstore.infrastructure\\data\\mappings\\productmap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2ABB90F7-B344-4E5B-AA20-DB7D918DDE8E}|SoaresStore.Infrastructure\\SoaresStore.Infrastructure.csproj|solutionrelative:soaresstore.infrastructure\\data\\mappings\\productmap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{06446233-3CEF-4CB6-976A-491FAB44E7A2}|SoaresStore.Domain\\SoaresStore.Domain.csproj|f:\\leandro\\lab_leandro\\balta\\repository pattern\\soaresstore\\soaresstore.domain\\abstractions\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{06446233-3CEF-4CB6-976A-491FAB44E7A2}|SoaresStore.Domain\\SoaresStore.Domain.csproj|solutionrelative:soaresstore.domain\\abstractions\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{77129AE7-937D-4AE0-BA4C-9411280B44AF}|SoaresStore.Application\\SoaresStore.Application.csproj|f:\\leandro\\lab_leandro\\balta\\repository pattern\\soaresstore\\soaresstore.application\\usecases\\products\\getbyid\\handler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{77129AE7-937D-4AE0-BA4C-9411280B44AF}|SoaresStore.Application\\SoaresStore.Application.csproj|solutionrelative:soaresstore.application\\usecases\\products\\getbyid\\handler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{77129AE7-937D-4AE0-BA4C-9411280B44AF}|SoaresStore.Application\\SoaresStore.Application.csproj|f:\\leandro\\lab_leandro\\balta\\repository pattern\\soaresstore\\soaresstore.application\\usecases\\products\\getbyid\\command.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{77129AE7-937D-4AE0-BA4C-9411280B44AF}|SoaresStore.Application\\SoaresStore.Application.csproj|solutionrelative:soaresstore.application\\usecases\\products\\getbyid\\command.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{06446233-3CEF-4CB6-976A-491FAB44E7A2}|SoaresStore.Domain\\SoaresStore.Domain.csproj|f:\\leandro\\lab_leandro\\balta\\repository pattern\\soaresstore\\soaresstore.domain\\abstractions\\error.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{06446233-3CEF-4CB6-976A-491FAB44E7A2}|SoaresStore.Domain\\SoaresStore.Domain.csproj|solutionrelative:soaresstore.domain\\abstractions\\error.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,21 +34,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 35,
+          "SelectedChildIndex": 38,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "IProductRepository.cs",
-              "DocumentMoniker": "F:\\Leandro\\lab_leandro\\balta\\Repository Pattern\\SoaresStore\\SoaresStore.Domain\\Repositories\\IProductRepository.cs",
-              "RelativeDocumentMoniker": "SoaresStore.Domain\\Repositories\\IProductRepository.cs",
-              "ToolTip": "F:\\Leandro\\lab_leandro\\balta\\Repository Pattern\\SoaresStore\\SoaresStore.Domain\\Repositories\\IProductRepository.cs",
-              "RelativeToolTip": "SoaresStore.Domain\\Repositories\\IProductRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-08T18:53:42.128Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
@@ -199,54 +170,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ProductRepository.cs",
-              "DocumentMoniker": "F:\\Leandro\\lab_leandro\\balta\\Repository Pattern\\SoaresStore\\SoaresStore.Infrastructure\\Repositories\\ProductRepository.cs",
-              "RelativeDocumentMoniker": "SoaresStore.Infrastructure\\Repositories\\ProductRepository.cs",
-              "ToolTip": "F:\\Leandro\\lab_leandro\\balta\\Repository Pattern\\SoaresStore\\SoaresStore.Infrastructure\\Repositories\\ProductRepository.cs",
-              "RelativeToolTip": "SoaresStore.Infrastructure\\Repositories\\ProductRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-08T18:48:29.917Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "DependencyInjection.cs",
-              "DocumentMoniker": "F:\\Leandro\\lab_leandro\\balta\\Repository Pattern\\SoaresStore\\SoaresStore.Application\\DependencyInjection.cs",
-              "RelativeDocumentMoniker": "SoaresStore.Application\\DependencyInjection.cs",
-              "ToolTip": "F:\\Leandro\\lab_leandro\\balta\\Repository Pattern\\SoaresStore\\SoaresStore.Application\\DependencyInjection.cs",
-              "RelativeToolTip": "SoaresStore.Application\\DependencyInjection.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-08T18:46:22.149Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "DependencyInjection.cs",
-              "DocumentMoniker": "F:\\Leandro\\lab_leandro\\balta\\Repository Pattern\\SoaresStore\\SoaresStore.Infrastructure\\Data\\DependencyInjection.cs",
-              "RelativeDocumentMoniker": "SoaresStore.Infrastructure\\Data\\DependencyInjection.cs",
-              "ToolTip": "F:\\Leandro\\lab_leandro\\balta\\Repository Pattern\\SoaresStore\\SoaresStore.Infrastructure\\Data\\DependencyInjection.cs",
-              "RelativeToolTip": "SoaresStore.Infrastructure\\Data\\DependencyInjection.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-08T18:46:09.485Z",
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "F:\\Leandro\\lab_leandro\\balta\\Repository Pattern\\SoaresStore\\SoaresStore.Api\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "SoaresStore.Api\\appsettings.Development.json",
+              "ToolTip": "F:\\Leandro\\lab_leandro\\balta\\Repository Pattern\\SoaresStore\\SoaresStore.Api\\appsettings.Development.json",
+              "RelativeToolTip": "SoaresStore.Api\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-09T13:50:07.46Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "F:\\Leandro\\lab_leandro\\balta\\Repository Pattern\\SoaresStore\\SoaresStore.Infrastructure\\Data\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "SoaresStore.Infrastructure\\Data\\AppDbContext.cs",
-              "ToolTip": "F:\\Leandro\\lab_leandro\\balta\\Repository Pattern\\SoaresStore\\SoaresStore.Infrastructure\\Data\\AppDbContext.cs",
-              "RelativeToolTip": "SoaresStore.Infrastructure\\Data\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABTAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-08T18:41:25.573Z",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "F:\\Leandro\\lab_leandro\\balta\\Repository Pattern\\SoaresStore\\SoaresStore.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "SoaresStore.Api\\appsettings.json",
+              "ToolTip": "F:\\Leandro\\lab_leandro\\balta\\Repository Pattern\\SoaresStore\\SoaresStore.Api\\appsettings.json",
+              "RelativeToolTip": "SoaresStore.Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-09T13:50:04.762Z",
               "EditorCaption": ""
             },
             {
@@ -257,59 +202,49 @@
               "RelativeDocumentMoniker": "SoaresStore.Infrastructure\\Data\\Mappings\\ProductMap.cs",
               "ToolTip": "F:\\Leandro\\lab_leandro\\balta\\Repository Pattern\\SoaresStore\\SoaresStore.Infrastructure\\Data\\Mappings\\ProductMap.cs",
               "RelativeToolTip": "SoaresStore.Infrastructure\\Data\\Mappings\\ProductMap.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAArAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-08T18:38:26.07Z",
+              "WhenOpened": "2025-04-09T13:26:46.496Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Error.cs",
-              "DocumentMoniker": "F:\\Leandro\\lab_leandro\\balta\\Repository Pattern\\SoaresStore\\SoaresStore.Domain\\Abstractions\\Error.cs",
-              "RelativeDocumentMoniker": "SoaresStore.Domain\\Abstractions\\Error.cs",
-              "ToolTip": "F:\\Leandro\\lab_leandro\\balta\\Repository Pattern\\SoaresStore\\SoaresStore.Domain\\Abstractions\\Error.cs",
-              "RelativeToolTip": "SoaresStore.Domain\\Abstractions\\Error.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABeAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "F:\\Leandro\\lab_leandro\\balta\\Repository Pattern\\SoaresStore\\SoaresStore.Infrastructure\\Data\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "SoaresStore.Infrastructure\\Data\\DependencyInjection.cs",
+              "ToolTip": "F:\\Leandro\\lab_leandro\\balta\\Repository Pattern\\SoaresStore\\SoaresStore.Infrastructure\\Data\\DependencyInjection.cs",
+              "RelativeToolTip": "SoaresStore.Infrastructure\\Data\\DependencyInjection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-08T13:46:37.589Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Handler.cs",
-              "DocumentMoniker": "F:\\Leandro\\lab_leandro\\balta\\Repository Pattern\\SoaresStore\\SoaresStore.Application\\UseCases\\Products\\GetById\\Handler.cs",
-              "RelativeDocumentMoniker": "SoaresStore.Application\\UseCases\\Products\\GetById\\Handler.cs",
-              "ToolTip": "F:\\Leandro\\lab_leandro\\balta\\Repository Pattern\\SoaresStore\\SoaresStore.Application\\UseCases\\Products\\GetById\\Handler.cs",
-              "RelativeToolTip": "SoaresStore.Application\\UseCases\\Products\\GetById\\Handler.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-08T13:32:08.141Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Result.cs",
-              "DocumentMoniker": "F:\\Leandro\\lab_leandro\\balta\\Repository Pattern\\SoaresStore\\SoaresStore.Domain\\Abstractions\\Result.cs",
-              "RelativeDocumentMoniker": "SoaresStore.Domain\\Abstractions\\Result.cs",
-              "ToolTip": "F:\\Leandro\\lab_leandro\\balta\\Repository Pattern\\SoaresStore\\SoaresStore.Domain\\Abstractions\\Result.cs",
-              "RelativeToolTip": "SoaresStore.Domain\\Abstractions\\Result.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAcwA8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-08T13:45:18.484Z",
+              "WhenOpened": "2025-04-09T13:26:38.001Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Command.cs",
-              "DocumentMoniker": "F:\\Leandro\\lab_leandro\\balta\\Repository Pattern\\SoaresStore\\SoaresStore.Application\\UseCases\\Products\\GetById\\Command.cs",
-              "RelativeDocumentMoniker": "SoaresStore.Application\\UseCases\\Products\\GetById\\Command.cs",
-              "ToolTip": "F:\\Leandro\\lab_leandro\\balta\\Repository Pattern\\SoaresStore\\SoaresStore.Application\\UseCases\\Products\\GetById\\Command.cs",
-              "RelativeToolTip": "SoaresStore.Application\\UseCases\\Products\\GetById\\Command.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAUAAAAZAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "F:\\Leandro\\lab_leandro\\balta\\Repository Pattern\\SoaresStore\\SoaresStore.Infrastructure\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "SoaresStore.Infrastructure\\Data\\AppDbContext.cs",
+              "ToolTip": "F:\\Leandro\\lab_leandro\\balta\\Repository Pattern\\SoaresStore\\SoaresStore.Infrastructure\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "SoaresStore.Infrastructure\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-08T13:31:23.27Z"
+              "WhenOpened": "2025-04-09T13:26:33.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\Leandro\\lab_leandro\\balta\\Repository Pattern\\SoaresStore\\SoaresStore.Api\\Program.cs",
+              "RelativeDocumentMoniker": "SoaresStore.Api\\Program.cs",
+              "ToolTip": "F:\\Leandro\\lab_leandro\\balta\\Repository Pattern\\SoaresStore\\SoaresStore.Api\\Program.cs",
+              "RelativeToolTip": "SoaresStore.Api\\Program.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAUwC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T13:13:46.445Z",
+              "EditorCaption": ""
             }
           ]
         }
