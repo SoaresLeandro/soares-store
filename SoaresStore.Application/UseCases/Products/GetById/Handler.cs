@@ -1,6 +1,7 @@
 ﻿using MediatR;
 using SoaresStore.Domain.Abstractions;
 using SoaresStore.Domain.Repositories;
+using SoaresStore.Domain.Specifications.Products;
 
 namespace SoaresStore.Application.UseCases.Products.GetById
 {
@@ -8,7 +9,8 @@ namespace SoaresStore.Application.UseCases.Products.GetById
     {
         public async Task<Result<Response>> Handle(Command request, CancellationToken cancellationToken)
         {
-            var product = await repository.GetByIdAsync(request.Id, cancellationToken);
+            var specification = new GetProductByIdSpecification(request.Id);
+            var product = await repository.GetByIdAsync(specification, cancellationToken);
 
             return product is null ?
                 Result.Failure<Response>(new Error("404", "Product Not Found")) :

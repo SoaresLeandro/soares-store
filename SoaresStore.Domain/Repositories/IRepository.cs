@@ -2,5 +2,5 @@
 
 namespace SoaresStore.Domain.Repositories
 {
-    public interface IRepository<T> where T : Entity;
+    public interface IRepository<T> where T : IAggregateRoot;
 }

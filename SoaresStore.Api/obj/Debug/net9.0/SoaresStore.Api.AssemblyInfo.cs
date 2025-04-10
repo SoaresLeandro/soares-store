@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SoaresStore.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+31d668884e45aed05e4a784461c32709cb9fdb5a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+93e5d1f812688423294120639dd00d0570e9bd6d")]
 [assembly: System.Reflection.AssemblyProductAttribute("SoaresStore.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SoaresStore.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

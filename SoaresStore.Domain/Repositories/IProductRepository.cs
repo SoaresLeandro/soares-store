@@ -1,10 +1,11 @@
-﻿using SoaresStore.Domain.Entities;
+﻿using SoaresStore.Domain.Abstractions;
+using SoaresStore.Domain.Entities;
 
 namespace SoaresStore.Domain.Repositories
 {
     public interface IProductRepository : IRepository<Product>
     {
-        Task<Product?> GetByIdAsync(Guid id, CancellationToken cancellationToken);
+        Task<Product?> GetByIdAsync(Specification<Product> specification, CancellationToken cancellationToken);
 
         Task<List<Product>> GetAllAsync(CancellationToken cancellationToken);
 
