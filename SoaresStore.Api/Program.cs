@@ -25,6 +25,13 @@ builder.Services.AddInfrastructure();
 
 var app = builder.Build();
 
+app.MapGet("/v1/products", (IProductRepository repository, CancellationToken cancellationToken) =>
+{
+    var products = repository.GetAllAsync(cancellationToken);
+
+    return Results.Ok(products);
+});
+
 app.MapGet("/v1/products/{id}", async (ISender sender, Guid id, CancellationToken cancellationToken) =>
 {
     var command = new SoaresStore.Application.UseCases.Products.GetById.Command(id);

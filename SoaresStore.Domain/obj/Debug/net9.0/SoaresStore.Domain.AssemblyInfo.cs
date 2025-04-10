@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SoaresStore.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+93e5d1f812688423294120639dd00d0570e9bd6d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5408ab2c58d1060241dacdb4e4a2c56de3a57ac1")]
 [assembly: System.Reflection.AssemblyProductAttribute("SoaresStore.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SoaresStore.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
